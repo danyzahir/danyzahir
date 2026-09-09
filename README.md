@@ -38,10 +38,3 @@
 <div align="center">
   <img src="tech-stack.svg" alt="Tech Stack Neo Brutalism" width="100%" />
 </div>
-
-<br />
-
-<!-- 4. FOOTER BANNER -->
-<div align="center">
-  <img src="footer.svg" alt="Neo Brutalism Footer" width="100%" />
-</div>
