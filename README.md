@@ -15,7 +15,7 @@
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#FFE600">
-      <h2 align="center"><b>💻 ABOUT ME / TENTANG SAYA</b></h2>
+      <h2 align="center"><b>ABOUT ME / TENTANG SAYA</b></h2>
     </td>
   </tr>
   <tr>
