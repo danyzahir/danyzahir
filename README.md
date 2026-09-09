@@ -18,13 +18,18 @@
       <h2 align="center"><b>ABOUT ME / TENTANG SAYA</b></h2>
     </td>
   </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" style="padding: 16px;">
-      <p align="left"><i>
-        Saya seorang <b>Full-Stack Web Developer</b> dan anggota <b>BYTE Indonesia</b>. Perjalanan saya di dunia teknologi berfokus pada pengembangan perangkat lunak modern, aplikasi web berkinerja tinggi, serta eksplorasi sistem <b>C++</b> dan web tech (JavaScript, TypeScript, React). Saya menyukai filosofi desain <b>Neo-Brutalism</b>—berani, kontras tinggi, dan langsung pada intinya!
-      </i></p>
-    </td>
-  </tr>
+ <tr> 
+  <td bgcolor="#FFFFFF" style="padding: 16px;"> 
+    <p align="left"><i> 
+      Saya seorang <b>Full-Stack Web Developer</b> yang berfokus pada pengembangan  
+      <b>aplikasi web modern, scalable, dan berkinerja tinggi</b>. Saya terbiasa  
+      mengembangkan sistem dari sisi <b>frontend hingga backend</b>, serta  
+      mengintegrasikan berbagai teknologi seperti <b>JavaScript, TypeScript, React </b>. Saya juga tertarik pada <b>AI integration</b>, pengembangan  
+      produk digital, dan eksplorasi teknologi baru. Dalam desain, saya menyukai  
+      filosofi <b>Neo-Brutalism</b>—berani, kontras, dan langsung pada intinya! 
+    </i></p> 
+  </td> 
+</tr>
 </table>
 
 <br />
